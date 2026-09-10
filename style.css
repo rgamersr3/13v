@@ -24,6 +24,15 @@ h2 {
     color: white;
     letter-spacing:.14em
     text-align:center
+ }
+
+h3 {
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-size: 40px;
+    color: white;
+    letter-spacing:.14em
+    text-align:center   
+    
 }
 
 a {
