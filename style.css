@@ -12,8 +12,18 @@ html {
 
 h1 {
     text-shadow: 0.1em 0.1em 0.2em black;
+    font-size: 20px;
+    color: white;
+    letter-spacing:.14em
+    text-align:center
+}
+
+h2 {
+    text-shadow: 0.1em 0.1em 0.2em black;
     font-size: 25px;
     color: white;
+    letter-spacing:.14em
+    text-align:center
 }
 
 a {
